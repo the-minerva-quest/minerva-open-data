@@ -1,3 +1,10 @@
+This data is sourced from the most up-to-date government and Minerva documents and is intended to show visa fees for the 2021-2022 academic year. 
+
+Visa fees and exchange rates are subject to change, so the information shown here is an approximation, not exact prediction, of costs. Moreover, the data shown here does not account for indirect visa application costs, like shipping documents, which make the process more expensive.
+
+Finally, fees and indirect costs are only one component of the visa application process. Other bureaucratic complexities and inequities are not the focus of this piece but make the process burdensome for some students, especially those with disadvantaged passports.
+
+
 Data about the nationalities of Minerva students was provided by Teri Cannon, Minerva’s Chief Student Affairs and Operations Officer. This data lists birth countries and therefore may not accurately reflect the legal status of all students, such as those with more than one passport. Of the 605 Minerva students in this data, nine did not have a birth country listed.
 
 US F-1 visa fee application information was obtained from the US Department of State website. SEVIS fee information is from the Immigrations and Customs Enforcement website. F-1 reciprocity fee and validity period information was obtained from the US Department of state website; here is the code used to scrape it.
