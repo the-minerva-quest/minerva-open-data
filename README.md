@@ -12,3 +12,6 @@ This folder contains information about costs paid by Minerva students and financ
 
 ### Student Visa Fees Data
 This folder contains student visa fees data for Minerva rotation countries and 195 nationalities, collected in Fall 2020. 
+
+## Meekly Quest Bot
+This folder a Python notebook used to train a [GPT-2](https://openai.com/blog/better-language-models/) language generation model on Quest article texts. It is used to generate articles for publlication in the [Meekly](https://www.minervaquest.com/category/meekly/)
