@@ -1,3 +1,5 @@
+***Student Visa Fees Data Biography***
+
 This data is sourced from the most up-to-date government and Minerva documents and is intended to show visa fees for the 2021-2022 academic year. 
 
 Visa fees and exchange rates are subject to change, so the information shown here is an approximation, not exact prediction, of costs. Moreover, the data shown here does not account for indirect visa application costs, like shipping documents, which make the process more expensive.
